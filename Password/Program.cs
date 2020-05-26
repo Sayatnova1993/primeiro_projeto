@@ -14,7 +14,7 @@ namespace Password
                 input = Console.ReadLine();
                 if (input == password)
                 {
-                    Console.WriteLine("Senha Correta.");
+                    Console.WriteLine("Senha Correta. Favor, fechar aplicativo.");
                     break;
                 }
                 else
